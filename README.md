@@ -16,9 +16,10 @@ It’s an essential step toward bigger projects like `pipex` and `minishell`.
 
 
 ## 🧩 Function Prototype
-```c
+```
 char    *get_next_line(int fd);
 
+```
 
 
 ## 📸 Preview
